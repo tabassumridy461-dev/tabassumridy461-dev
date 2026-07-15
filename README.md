@@ -5,5 +5,5 @@
 - 🌱 Currently learning Java, Dynamic Programming and Git
 - 🚀 Uploading coding projects every day
 - 🤝 Looking to collaborate on beginner-friendly open source projects
-- 📫 LinkedIn: https://www.linkedin.com/in/tabassum-ridy-0818b2385/
+- 📫 LinkedIn:https://www.linkedin.com/in/tabassum-ridy-dev/
 - ⭐ Check out my repositories below!
