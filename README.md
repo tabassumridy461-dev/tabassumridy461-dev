@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Tabassum Ridy
 
-- 🎓 Computer Science Student
+- 🎓 Software Engineering Student 
 - 💻 Interested in C Programming, Java, Python and Data Structures
 - 🌱 Currently learning Java, Dynamic Programming and Git
 - 🚀 Uploading coding projects every day
