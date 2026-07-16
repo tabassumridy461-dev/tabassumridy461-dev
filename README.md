@@ -1,87 +1,139 @@
-
 <h1 align="center">Hi 👋, I'm Tabassum Ridy</h1>
-<h3 align="center">💻 Software Engineering Student from Bangladesh</h3>
+
+<h3 align="center">
+💻 Software Engineering Student | Java Developer | Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Developer;Learning+Data+Structures+%26+Algorithms;Git+%26+GitHub+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Java+Developer;Learning+DSA+and+Git;Always+Learning+Something+New+🚀"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tabassumridy461-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 Software Engineering Student
-- 🌱 Currently learning **Java, Data Structures & Algorithms, Git & GitHub**
-- 💡 Interested in **Java, C, Python and Problem Solving**
-- 🚀 Uploading coding projects regularly
-- 🤝 Looking to collaborate on beginner-friendly Open Source Projects
-- 📍 Dhaka, Bangladesh
+🎓 Software Engineering Student
+
+🌱 Currently learning **Java, Git & GitHub, Data Structures & Algorithms**
+
+💡 Interested in **Java, C, Python, Problem Solving**
+
+🚀 Uploading coding projects regularly
+
+🤝 Looking for Open Source Collaboration
+
+📍 Dhaka, Bangladesh
 
 ---
 
-## 🚀 Languages & Tools
+# 🚀 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,git,github,idea,vscode,mysql,html,css,linux" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,python,git,github,idea,vscode,mysql,html,css,linux"/>
+
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - ☕ Java Programming
 - 🧩 Object-Oriented Programming (OOP)
 - 🌳 Git & GitHub
-- 🗄️ MySQL
 - 📖 Data Structures & Algorithms
+- 🗄️ MySQL
 
 ---
 
-## 🎯 Goals
+# 🎯 2026 Goals
 
-- ✅ Improve Java Skills
-- ✅ Solve 500+ Coding Problems
-- ✅ Build Real Projects
-- ✅ Contribute to Open Source
-- ✅ Become a Software Engineer
+✅ Master Java
+
+✅ Solve 500+ Problems
+
+✅ Build 20+ Projects
+
+✅ Learn Spring Boot
+
+✅ Contribute to Open Source
+
+✅ Become a Software Engineer
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 GitHub Achievements
+
+🥇 Daily Coding
+
+📚 Learning New Technologies
+
+🚀 Building Projects
+
+💡 Improving Problem Solving Skills
+
+---
+
+# 📌 Featured Projects
+
+💻 Java Programming Series
+
+💻 C Programming Series
+
+💻 Future Python Projects
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/tabassum-ridy-dev/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/tabassumridy461-dev">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> **"Consistency beats talent when talent doesn't stay consistent."**
+
+---
+
+# ☕ Fun Fact
+
+```java
+while(alive){
+    learn();
+    code();
+    improve();
+    repeat();
+}
+```
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tabassumridy461-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabassumridy461-dev&layout=compact&theme=tokyonight&hide_border=true" />
+Keep Learning • Keep Building • Keep Growing 🚀
 </p>
 
----
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tabassumridy461-dev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/tabassum-ridy-dev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/tabassumridy461-dev" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:tabassumridy461@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-⭐ **Thanks for visiting my GitHub profile!**
-
-⭐ If you like my projects, don't forget to star the repositories!
