@@ -32,7 +32,7 @@
 
 🎓 Software Engineering Student
 
-🌱 Currently learning **Java, Git & GitHub, Data Structures & Algorithms**
+🌱 learning **Java, Git & GitHub, Data Structures & Algorithms**
 
 💡 Interested in **Java, C, Python and Problem Solving**
 
