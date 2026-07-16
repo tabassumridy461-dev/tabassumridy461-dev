@@ -5,11 +5,25 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Java+Developer;Learning+DSA+and+Git;Always+Learning+Something+New+🚀"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=tabassumridy461-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/tabassum-ridy-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tabassumridy461-dev">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -20,11 +34,11 @@
 
 🌱 Currently learning **Java, Git & GitHub, Data Structures & Algorithms**
 
-💡 Interested in **Java, C, Python, Problem Solving**
+💡 Interested in **Java, C, Python and Problem Solving**
 
 🚀 Uploading coding projects regularly
 
-🤝 Looking for Open Source Collaboration
+🤝 Looking to collaborate on beginner-friendly Open Source Projects
 
 📍 Dhaka, Bangladesh
 
@@ -33,9 +47,7 @@
 # 🚀 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,c,python,git,github,idea,vscode,mysql,html,css,linux"/>
-
 </p>
 
 ---
@@ -52,17 +64,12 @@
 
 # 🎯 2026 Goals
 
-✅ Master Java
-
-✅ Solve 500+ Problems
-
-✅ Build 20+ Projects
-
-✅ Learn Spring Boot
-
-✅ Contribute to Open Source
-
-✅ Become a Software Engineer
+- ✅ Master Java
+- ✅ Solve 500+ Coding Problems
+- ✅ Build 20+ Projects
+- ✅ Learn Spring Boot
+- ✅ Contribute to Open Source
+- ✅ Become a Software Engineer
 
 ---
 
@@ -80,11 +87,9 @@
 
 # 📌 Featured Projects
 
-💻 Java Programming Series
-
-💻 C Programming Series
-
-💻 Future Python Projects
+- 💻 Java Programming Series
+- 💻 C Programming Series
+- 💻 Future Python Projects
 
 ---
 
@@ -117,7 +122,7 @@
 # ☕ Fun Fact
 
 ```java
-while(alive){
+while (alive) {
     learn();
     code();
     improve();
@@ -134,6 +139,5 @@ while(alive){
 <p align="center">
 Keep Learning • Keep Building • Keep Growing 🚀
 </p>
-
 
 
