@@ -1,18 +1,27 @@
-# 👋 Hi, I'm Tabassum Ridy
 
-### 💻 Software Engineering Student from Bangladesh
+<h1 align="center">Hi 👋, I'm Tabassum Ridy</h1>
+<h3 align="center">💻 Software Engineering Student from Bangladesh</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Developer;Learning+Data+Structures+%26+Algorithms;Git+%26+GitHub+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Software Engineering Student
 - 🌱 Currently learning **Java, Data Structures & Algorithms, Git & GitHub**
-- 💡 Interested in **Java, C, Python, Problem Solving, and Software Development**
+- 💡 Interested in **Java, C, Python and Problem Solving**
 - 🚀 Uploading coding projects regularly
 - 🤝 Looking to collaborate on beginner-friendly Open Source Projects
-- 📫 Reach me: **tabassumridy461@gmail.com**
+- 📍 Dhaka, Bangladesh
 
 ---
 
 ## 🚀 Languages & Tools
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=java,c,python,git,github,idea,vscode,mysql,html,css,linux" />
 </p>
 
@@ -20,25 +29,20 @@
 
 ## 📚 Currently Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,git,github,mysql" />
-</p>
-
 - ☕ Java Programming
-- 📂 Object-Oriented Programming (OOP)
+- 🧩 Object-Oriented Programming (OOP)
 - 🌳 Git & GitHub
-- 🗄️ Database (MySQL)
-- 🧠 Data Structures & Algorithms
+- 🗄️ MySQL
+- 📖 Data Structures & Algorithms
 
 ---
 
-## 🎯 Goals for 2026
+## 🎯 Goals
 
-- ✅ Improve Java Programming Skills
+- ✅ Improve Java Skills
 - ✅ Solve 500+ Coding Problems
-- ✅ Build Real-World Projects
+- ✅ Build Real Projects
 - ✅ Contribute to Open Source
-- ✅ Learn Spring Boot
 - ✅ Become a Software Engineer
 
 ---
@@ -46,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tabassumridy461-dev&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabassumridy461-dev&layout=compact&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tabassumridy461-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabassumridy461-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -55,14 +59,14 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tabassumridy461-dev&theme=tokyonight&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=tabassumridy461-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p>
 <a href="https://www.linkedin.com/in/tabassum-ridy-dev/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -78,6 +82,6 @@
 
 ---
 
-## 💖 Thanks for visiting my profile!
+⭐ **Thanks for visiting my GitHub profile!**
 
 ⭐ If you like my projects, don't forget to star the repositories!
