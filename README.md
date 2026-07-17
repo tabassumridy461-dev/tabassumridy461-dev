@@ -89,7 +89,7 @@
 
 - 💻 Java Programming Series
 - 💻 C Programming Series
-- 💻 Future Python Projects
+- 💻 Data structure & Algorithm Series
 
 ---
 
